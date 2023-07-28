@@ -1,6 +1,9 @@
 /**
  * Longest substring in a string with no repeats
  * 
+ * Time Complexity: O(n)
+ * Memory Complexity: O(n)
+ * 
  * @param {string} str - Original string
  * @returns {string} - Longest substring
  */
