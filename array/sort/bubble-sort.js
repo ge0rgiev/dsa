@@ -2,7 +2,7 @@
  * Bubble Sort
  * 
  * Time Complexity: O(n^2)
- * Memory Complexity: O(1)
+ * Space Complexity: O(1)
  * 
  * @param {number[]} arr - Array of numbers
  * @returns {number[]} - Sorted array

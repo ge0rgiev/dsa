@@ -2,7 +2,7 @@
  * Ternary Search
  * 
  * Time Complexity: O(log3 n)
- * Memory Complexity: O(1)
+ * Space Complexity: O(1)
  * 
  * @param {number} left - Pointer to the First array element 
  * @param {number} right - Pointer to the Last array element

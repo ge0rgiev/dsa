@@ -2,7 +2,7 @@
  * Binary search
  * 
  * Time Compexity: O(log n)
- * Memory Compexity: O(1)
+ * Space Compexity: O(1)
  * 
  * @param {number[]} arr - Sorted array
  * @param {number} search - Searched number

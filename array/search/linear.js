@@ -2,7 +2,7 @@
  * Linear search
  * 
  * Time Compexity: O(n)
- * Memory Compexity: O(1)
+ * Space Compexity: O(1)
  *  
  * @param {number[]} arr 
  * @param {number} search 
